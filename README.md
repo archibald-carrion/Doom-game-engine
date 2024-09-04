@@ -34,7 +34,11 @@ But you will need to install pyinstaller first:
 ```bash
 pip install pyinstaller
 ```
-
+The main.exe file will be created in the dist folder, to run the program you need to move the main.exe file to the root folder of the project where the resources folder is located, you can either move it manually or use the following command:
+```bash
+move dist\main.exe main.exe
+```
+Then you can run the program by double-clicking on the main.exe file, you no longer need the dist folder nor the build folder, you can delete them.
 
 ## Screenshots
 ![doom-like screenshot #0](https://github.com/archibald-carrion/Doom-game-engine/blob/main/resources/readme/screenshot0.png)
