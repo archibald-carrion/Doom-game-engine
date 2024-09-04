@@ -43,3 +43,11 @@ Then you can run the program by double-clicking on the main.exe file, you no lon
 ## Screenshots
 ![doom-like screenshot #0](https://github.com/archibald-carrion/Doom-game-engine/blob/main/resources/readme/screenshot0.png)
 ![doom-like screenshot #1](https://github.com/archibald-carrion/Doom-game-engine/blob/main/resources/readme/screenshot1.png)
+
+
+## To do
+- [ ] Clean the code, add comments and documentation
+- [ ] Add a src folder to store the source code, and reorganize the files
+- [ ] Follow a better structure for the project so it is easier to understand and make own games
+- [ ] Add more features to the game engine
+- [ ] Follow similar structure to my other game engine project [2D game engine](https://github.com/archibald-carrion/game-engine)
